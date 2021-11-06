@@ -1,7 +1,8 @@
 # 赛马娘游戏加速
-Host, prd-storage-app-umamusume.akamaized.net
-Host, prd-storage-game-umamusume.akamaized.net
-Host, prd-info-umamusume.akamaized.net
-Host, omotenashi.cygames.jp
-Host, api-umamusume.cygames.jp
-DOMAIN-KEYWORD, umamusume
+Host, prd-storage-app-umamusume.akamaized.net ,赛马娘
+Host, prd-storage-game-umamusume.akamaized.net ,赛马娘
+Host, prd-info-umamusume.akamaized.net ,赛马娘
+Host, omotenashi.cygames.jp,赛马娘
+Host, api-umamusume.cygames.jp,赛马娘
+
+DOMAIN-KEYWORD, umamusume,赛马娘
