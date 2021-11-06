@@ -1,6 +1,7 @@
 # 赛马娘游戏加速
-host-suffix, prd-storage-app-umamusume.akamaized.net
-host-suffix, prd-storage-game-umamusume.akamaized.net
-host-suffix, prd-info-umamusume.akamaized.net
-host-suffix, omotenashi.cygames.jp
-host-suffix, api-umamusume.cygames.jp
+DOMAIN-SUFFIX, prd-storage-app-umamusume.akamaized.net
+DOMAIN-SUFFIX, prd-storage-game-umamusume.akamaized.net
+DOMAIN-SUFFIX, prd-info-umamusume.akamaized.net
+DOMAIN-SUFFIX, omotenashi.cygames.jp
+DOMAIN-SUFFIX, api-umamusume.cygames.jp
+DOMAIN-KEYWORD, umamusume
