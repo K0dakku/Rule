@@ -4,7 +4,7 @@
 # ---------------------------------------------------
 
 # 地区检测
-DOMAIN-SUFFIX,gspel-ssl.ls.apple.com
+# DOMAIN-SUFFIX,gspel-ssl.ls.apple.com
 
 # 沃达丰 (Vodafone)
 DOMAIN-SUFFIX,entsrv-uk.vodafone.com
