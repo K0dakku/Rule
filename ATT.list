@@ -1,0 +1,73 @@
+# NAME: AT&T Wi-Fi Calling
+# AUTHOR: ChatGPT
+# DESCRIPTION: AT&T IMS / Wi-Fi Calling Ruleset
+# FORMAT: Stash RuleSet
+
+# =========================
+# AT&T IMS / Wi-Fi Calling
+# =========================
+DOMAIN-SUFFIX,atl.net
+DOMAIN-SUFFIX,att.net
+DOMAIN-SUFFIX,att.com
+DOMAIN,mobilecsf.att.com
+
+# =========================
+# 3GPP IMS
+# =========================
+DOMAIN-SUFFIX,3gpp.org
+DOMAIN,ims.mnc410.mcc310.3gppnetwork.org
+DOMAIN,epdg.epc.mnc410.mcc310.3gppnetwork.org
+
+# =========================
+# Apple
+# NAME: AT&T Wi-Fi Calling
+# AUTHOR: ChatGPT
+# DESCRIPTION: AT&T IMS / Wi-Fi Calling Ruleset
+# FORMAT: Stash RuleSet
+
+# =========================
+# AT&T IMS / Wi-Fi Calling
+# =========================
+DOMAIN-SUFFIX,atl.net
+DOMAIN-SUFFIX,att.net
+DOMAIN-SUFFIX,att.com
+DOMAIN,mobilecsf.att.com
+
+# =========================
+# 3GPP IMS
+# =========================
+DOMAIN-SUFFIX,3gpp.org
+DOMAIN,ims.mnc410.mcc310.3gppnetwork.org
+DOMAIN,epdg.epc.mnc410.mcc310.3gppnetwork.org
+
+# =========================
+# AT&T Core Network
+# =========================
+IP-CIDR,12.0.0.0/8,no-resolve
+IP-CIDR,12.129.0.0/16,no-resolve
+IP-CIDR,12.130.0.0/16,no-resolve
+IP-CIDR,192.205.34.0/24,no-resolve
+IP-CIDR,135.25.0.0/16,no-resolve
+IP-CIDR,135.26.0.0/16,no-resolve
+
+# =========================
+# ePDG Gateway
+# =========================
+IP-CIDR,12.90.152.0/24,no-resolve
+IP-CIDR,12.91.152.0/24,no-resolve
+
+# =========================
+# AT&T Core Network
+# =========================
+IP-CIDR,12.0.0.0/8,no-resolve
+IP-CIDR,12.129.0.0/16,no-resolve
+IP-CIDR,12.130.0.0/16,no-resolve
+IP-CIDR,192.205.34.0/24,no-resolve
+IP-CIDR,135.25.0.0/16,no-resolve
+IP-CIDR,135.26.0.0/16,no-resolve
+
+# =========================
+# ePDG Gateway
+# =========================
+IP-CIDR,12.90.152.0/24,no-resolve
+IP-CIDR,12.91.152.0/24,no-resolve
